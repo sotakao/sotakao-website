@@ -72,7 +72,7 @@ email: "ucacst1@ucl.ac.uk"
 highlight_name: true
 ---
 
-I am a postdoctoral researcher in the [Statistical Machine Learning group](https://sml-group.cc/) at the [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), working on the applications of machine learning to weather and climate science. Previously, I did my PhD in mathematics, specialising in the mesmerising yet little known area of [geometric mechanics](https://en.wikipedia.org/wiki/Geometric_mechanics) and wrote [my dissertation](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.832210) under the supervision of [Professor Darryl Holm](https://www.ma.imperial.ac.uk/~dholm/) at Imperial College London.
+I am a postdoctoral researcher in the [Statistical Machine Learning group](https://sml-group.cc/) at the [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), where I work on the applications of machine learning to weather and climate science. Before this, I was a mathematician specialising in the mesmerising, yet little known area of [geometric mechanics](https://en.wikipedia.org/wiki/Geometric_mechanics), and wrote [my dissertation](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.832210) on the topic under the supervision of [Professor Darryl Holm](https://www.ma.imperial.ac.uk/~dholm/).
 
 Outside of my academic activities, I am also a jazz saxophonist and occasionally gig around London.
 
