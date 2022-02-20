@@ -22,7 +22,6 @@ image:
   focal_point: ""
   preview_only: true
 
-
 featured: true
 draft: false
 ---
