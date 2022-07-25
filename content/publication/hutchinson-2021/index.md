@@ -12,7 +12,7 @@ authors:
 - Yee Whye Teh
 - Marc P. Deisenroth
 tags: []
-categories: []
+categories: [Bayesian Machine Learning]
 date: '2021-12-06'
 lastmod: 2021-09-28T21:26:40+01:00
 featured: true
