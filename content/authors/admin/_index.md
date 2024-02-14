@@ -6,21 +6,21 @@ title: So Takao
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Fellow in Machine Learning for Climate Science
+role: Postdoctoral Scholar Research Associate in Computing and Mathematical Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University College London
-  url: https://www.ucl.ac.uk/
+- name: California Institute of Technology
+  url: https://www.caltech.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Machine learning researcher, mathematician and musician based in London. 
+bio: Machine learning researcher, mathematician and musician. 
 
 # Interests to show in About widget
 interests:
 - Statistical Machine Learning
-- Weather and Climate Science
-- Sustainability
+- Data Assimilation
+- Weather and Climate Models
 - Stochastic Processes
 - Differential Geometry
 
@@ -66,14 +66,13 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ucacst1@ucl.ac.uk"
+email: "sotakao@caltech.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Hi! I am a postdoctoral scholar at the California Institute of Technology (Caltech) working on the intersection of machine learning and data assimilation, led by [Prof. Andrew Stuart](http://stuart.caltech.edu). Before this, I was a research fellow at the UCL [Sustainability and Machine Learning group](https://sml-group.cc/), led by [Prof. Marc Deisenroth](https://www.deisenroth.cc), where I worked on topics ranging from message passing algorithms for data assimilation to Gaussian processes with geometric/topological inductive biases. I received my PhD at Imperial College London under the supervision of [Prof. Darryl Holm](https://www.ma.imperial.ac.uk/~dholm/), where I wrote [my dissertation](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.832210) on the mesmerising area of [geometric mechanics](https://en.wikipedia.org/wiki/Geometric_mechanics). My thesis focussed on developing and analysing structure preserving stochastic fluid models and MCMC methods on Lie groups.
 
-I am a postdoctoral researcher in the [Statistical Machine Learning group](https://sml-group.cc/) at the [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), where I work on the applications of machine learning to weather and climate science. Before this, I was a mathematician specialising in the mesmerising, yet little known area of [geometric mechanics](https://en.wikipedia.org/wiki/Geometric_mechanics), and wrote [my dissertation](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.832210) on the topic under the supervision of [Professor Darryl Holm](https://www.ma.imperial.ac.uk/~dholm/).
-
-Outside of my academic activities, I am also a jazz saxophonist and occasionally gig around London.
+Outside of my academic activities, I am also a jazz saxophonist and used to occasionally gig around London. I'm excited to be in LA now and looking for places to play!
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
