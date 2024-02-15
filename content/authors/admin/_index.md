@@ -74,6 +74,6 @@ highlight_name: true
 ---
 Hi! I am a postdoctoral scholar at the California Institute of Technology (Caltech) working on the intersection of machine learning and data assimilation, led by [Prof. Andrew Stuart](http://stuart.caltech.edu). Before this, I was a research fellow at the UCL [Sustainability and Machine Learning group](https://sml-group.cc/), led by [Prof. Marc Deisenroth](https://www.deisenroth.cc), where I worked on topics ranging from message passing algorithms for data assimilation to Gaussian processes with geometric/topological inductive biases. I received my PhD at Imperial College London under the supervision of [Prof. Darryl Holm](https://www.ma.imperial.ac.uk/~dholm/), where I wrote [my dissertation](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.832210) on the mesmerising area of [geometric mechanics](https://en.wikipedia.org/wiki/Geometric_mechanics). My thesis focussed on developing and analysing structure preserving stochastic fluid models and MCMC methods on Lie groups.
 
-Outside of my academic activities, I am also a jazz saxophonist and used to occasionally gig around London. I'm excited to be in LA now and looking for places to play!
+Outside of my academic activities, I am also a jazz saxophonist and used to gig around London from time to time. I'm excited to be in LA now and looking forward to play at some places here too.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
