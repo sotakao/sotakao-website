@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: ARISGAN: Extreme Super-Resolution of Arctic Surface Imagery using Generative Adversarial Networks
+title: ARISGAN Extreme Super-Resolution of Arctic Surface Imagery using Generative Adversarial Networks
 subtitle:
 authors:
 - Christian Au
