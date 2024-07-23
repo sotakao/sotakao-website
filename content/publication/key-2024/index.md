@@ -33,6 +33,6 @@ publishDate: '2024'
 publication_types:
 - '2'
 abstract: Data assimilation is a core component of numerical weather prediction systems. The large quantity of data processed during assimilation requires the computation to be distributed across increasingly many compute nodes, yet existing approaches suffer from synchronisation overhead in this setting. In this paper, we exploit the formulation of data assimilation as a Bayesian inference problem and apply a message-passing algorithm to solve the spatial inference problem. Since message passing is inherently based on local computations, this approach lends itself to parallel and distributed computation. In combination with a GPU-accelerated implementation, we can scale the algorithm to very large grid sizes while retaining good accuracy and compute and memory requirements.
-publication: 'Preprint'
+publication: '*Climate Informatics*'
 url_pdf: 'https://arxiv.org/pdf/2404.12968.pdf'
 ---
