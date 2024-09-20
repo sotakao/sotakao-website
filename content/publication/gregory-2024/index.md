@@ -9,7 +9,7 @@ authors:
 - So Takao
 - Isobel Lawrence
 - Carmen Nab
-- Marc Deisenroth
+- Marc Peter Deisenroth
 - Michel Tsamados
 tags: []
 categories: [Gaussian processes, Remote sensing]
@@ -36,6 +36,6 @@ publishDate: '2024'
 publication_types:
 - '2'
 abstract: In this work, we present a new open-source Python programming library for performing efficient interpolation of non-stationary satellite altimetry data, using scalable Gaussian Process (GP) techniques. We showcase the library, GPSat, by using data from the CryoSat-2, Sentinel-3A, and Sentinel-3B radar altimeters, to generate complete maps of daily 50 km 2-gridded Arctic sea ice radar freeboard. Relative to a previous GP interpolation scheme, we find that GPSat offers a 504× computational speedup, with less than 4 mm difference on the derived freeboards, on average. We then demonstrate the scalability of GPSat through freeboard interpolation at 5 km 2 grid resolution, and Sea-Level Anomalies (SLA) at the resolution of the altimeter footprint. Validation of this novel high resolution radar freeboard product shows strong agreement with airborne data, with a linear correlation of 0.66. Footprint-level SLA interpolation also shows improvements in predictive skill over linear regression, which is a standard approach used in sea ice altimetry data processing. We suggest that GPSat could overcome the computational bottlenecks faced in many altimetry-based interpolation routines. This could in turn lead to improved observational estimates of ocean topography and sea ice thickness, and also further critical understanding of ocean and sea ice variability over short spatio-temporal scales.
-publication: 'Preprint'
-url_pdf: 'https://assets.researchsquare.com/files/rs-4209064/v1_covered_53613c1a-5686-48f0-9f02-99cbce5a8d25.pdf?c=1712547501'
+publication: '*Nature Communications*'
+url_pdf: 'https://www.nature.com/articles/s41467-024-51900-x'
 ---
