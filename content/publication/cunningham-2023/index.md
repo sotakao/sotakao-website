@@ -34,6 +34,6 @@ publishDate: '2023'
 publication_types:
 - '2'
 abstract: Gaussian processes (GPs) are typically criticised for their unfavourable scaling in both computational and memory requirements. For large datasets, sparse GPs reduce these demands by conditioning on a small set of inducing variables designed to summarise the data. In practice however, for large datasets requiring many inducing variables, such as low-lengthscale spatial data, even sparse GPs can become computationally expensive, limited by the number of inducing variables one can use. In this work, we propose a new class of inter-domain variational GP, constructed by projecting a GP onto a set of compactly supported B-spline basis functions. The key benefit of our approach is that the compact support of the B-spline basis functions admits the use of sparse linear algebra to significantly speed up matrix operations and drastically reduce the memory footprint. This allows us to very efficiently model fast-varying spatial phenomena with tens of thousands of inducing variables, where previous approaches failed.
-publication: '*International Conference on Artificial Intelligence and Statistics*'
+publication: '*International Conference on Artificial Intelligence and Statistics (AISTATS)*'
 url_pdf: 'https://proceedings.mlr.press/v206/cunningham23a/cunningham23a.pdf'
 ---

@@ -33,6 +33,6 @@ publishDate: '2024'
 publication_types:
 - '2'
 abstract: In recent years, there has been considerable interest in developing machine learning models on graphs in order to account for topological inductive biases. In particular, recent attention was given to Gaussian processes on such structures since they can additionally account for uncertainty. However, graphs are limited to modelling relations between two vertices. In this paper, we go beyond this dyadic setting and consider polyadic relations that include interactions between vertices, edges and one of their generalisations, known as cells. Specifically, we propose Gaussian processes on cellular complexes, a generalisation of graphs that captures interactions between these higher-order cells. One of our key contributions is the derivation of two novel kernels, one that generalises the graph Mat\'ern kernel and one that additionally mixes information of different cell types.
-publication: 'International Conference on Machine Learning'
+publication: '*International Conference on Machine Learning (ICML)*'
 url_pdf: 'https://openreview.net/pdf?id=afnyJfQddk'
 ---
