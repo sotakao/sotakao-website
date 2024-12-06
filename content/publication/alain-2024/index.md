@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Gaussian Processes on Cellular Complexes
+title: Graph Classification Gaussian Processes via Hodgelet Spectral Features
 subtitle:
 authors:
 - Mathieu Alain
